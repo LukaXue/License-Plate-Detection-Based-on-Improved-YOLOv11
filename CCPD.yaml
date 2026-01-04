@@ -1,0 +1,7 @@
+
+train: D:\yolov11\dataset\train\images
+val: D:\yolov11\dataset\val\images
+test: D:\yolov11\dataset\test\images
+# Classes
+nc: 1  # number of classes
+names: ["plate"]  # class names
